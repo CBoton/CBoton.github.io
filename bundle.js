@@ -114,7 +114,7 @@
       .enter().append('circle')
         .attr('cx', innerWidth / 2)
         .attr('cy', innerHeight / 2)
-        .attr('r', 20)
+        .attr('r', 10)
       .merge(circles)
       .transition().duration(2000)
       .delay((d, i) => i * 10)
@@ -141,7 +141,7 @@
     
     d3.select('#x-menu')
       .call(dropdownMenu, {
-        options: data.columns,
+        options: data.columns.slice(1),
         onOptionClicked: onXColumnClicked,
         selectedOption: xColumn
       });
@@ -151,9 +151,9 @@
       xValue: d => d[xColumn],
       xAxisLabel: xColumn,
       yValue: d => d['County'],
-      circleRadius: 20,
-      yAxisLabel: yColumn,
-      margin: { top: 10, right: 120, bottom: 88, left: 200 },
+      circleRadius: 10,
+      yAxisLabel: 'County',
+      margin: { top: 10, right: 120, bottom: 88, left: 110 },
       width,
       height,
       data
@@ -182,6 +182,9 @@
         d.Construction = +d.Construction;
         d.Production = +d.Production;
         d.Employed = +d.Employed;
+        d.PrivateWork = +d.PrivateWork;
+        d.PublicWork = +d.PublicWork;
+        d.SelfEmployed = +d.SelfEmployed;
         d.PercentUnemploymed = +d.PercentUnemploymed;
       });
       xColumn = data.columns[1];

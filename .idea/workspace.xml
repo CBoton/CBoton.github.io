@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e6d75a-223f-4969-9292-29115864e020" name="Default Changelist" comment="" />
+    <list default="true" id="a5e6d75a-223f-4969-9292-29115864e020" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/.idea/working.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/working3/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/working3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working3/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/working3/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aPty1pztF4VGDIukLkRReRReUM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -29,6 +46,8 @@
       <updated>1586649307662</updated>
       <workItem from="1586649308926" duration="2095000" />
       <workItem from="1586705093620" duration="3505000" />
+      <workItem from="1586709989306" duration="543000" />
+      <workItem from="1586720771204" duration="3673000" />
     </task>
     <servers />
   </component>
