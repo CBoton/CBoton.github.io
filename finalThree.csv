@@ -1,0 +1,152 @@
+income,state,county,lat,lon
+74063,Alabama,Shelby County,33.270615,-86.646835
+61318,Alabama,Madison County,34.749477,-86.586107
+55317,Alabama,Autauga County,32.54371,-86.641646
+90749,Alaska,Juneau City and Borough,58.334538,-134.383582
+86019,Alaska,Valdez-Cordova Census Area,61.598432,-144.175757
+85192,Alaska,Aleutians West Census Area,53.749884,-166.615052
+58580,Arizona,Maricopa County,33.440044,-112.255686
+56298,Arizona,Greenlee County,33.294272,-109.254849
+53523,Arizona,Coconino County,35.8064,-111.791213
+61271,Arkansas,Benton County,36.340431,-94.219493
+58985,Arkansas,Saline County,34.657015,-92.709809
+57290,Arkansas,Lonoke County,34.737197,-91.874573
+106761,California,Santa Clara County,37.345519,-121.879038
+105667,California,San Mateo County,37.550101,-122.311333
+104703,California,Marin County,38.052329,-122.691356
+111154,Colorado,Douglas County,39.388104,-104.886383
+92849,Colorado,Elbert County,39.334504,-104.21679
+85639,Colorado,Broomfield County,39.930217,-105.048425
+89773,Connecticut,Fairfield County,41.319978,-73.364209
+81673,Connecticut,Middlesex County,41.521539,-72.540747
+81312,Connecticut,Tolland County,41.838819,-72.35561
+68336,Delaware,New Castle County,39.639633,-75.635877
+57901,Delaware,Sussex County,38.673077,-75.376013
+57647,Delaware,Kent County,39.077316,-75.559285
+77649,District of Columbia,District of Columbia,38.901814,-76.987147
+73640,Florida,St. Johns County,29.862695,-81.398837
+64294,Florida,Nassau County,30.644713,-81.707981
+63030,Florida,Monroe County,25.578625,-81.035490
+96445,Georgia,Forsyth County,34.235705,-84.117016
+84861,Georgia,Fayette County,33.410282,-84.500345
+77388,Georgia,Oconee County,33.83772,-83.43141
+80078,Hawaii,Honolulu County,21.486345,-157.950404
+72762,Hawaii,Maui County,20.769923,-156.221396
+72330,Hawaii,Kauai County,22.048604,-159.707863
+60151,Idaho,Ada County,43.538186,-116.249774
+58835,Idaho,Blaine County,43.460579,-113.98287
+58750,Idaho,Caribou County,42.816674,-111.5781
+89860,Illinois,Kendall County,41.602829,-88.436134
+84442,Illinois,DuPage County,41.880253,-88.068153
+82613,Illinois,Lake County,42.321151,-87.994906
+90582,Indiana,Hamilton County,40.071152,-86.033216
+75591,Indiana,Boone County,40.075589,-86.454196
+74245,Indiana,Hendricks County,39.767452,-86.52423
+82719,Iowa,Dallas County,41.694093,-94.033573
+71514,Iowa,Warren County,41.334945,-93.559497
+67949,Iowa,Mills County,41.029538,-95.631152
+81121,Kansas,Johnson County,38.864191,-94.807366
+70022,Kansas,Leavenworth County,39.200203,-95.036421
+64410,Kansas,Pottawatomie County,39.368459,-96.343162
+92237,Kentucky,Oldham County,38.396748,-85.440163
+72731,Kentucky,Boone County,38.983399,-84.731307
+68916,Kentucky,Spencer County,38.009879,-85.351072
+74748,Louisiana,Ascension Parish,30.209462,-90.893843
+66539,Louisiana,St. Tammany Parish,30.463278,-89.985413
+64707,Louisiana,St. Charles Parish,29.905533,-90.399878
+65702,Maine,Cumberland County,43.798882,-70.353532
+62618,Maine,York County,43.513889,-70.701903
+60457,Maine,Sagadahoc County,44.041816,-69.911923
+115576,Maryland,Howard County,39.247573,-76.928631
+103178,Maryland,Montgomery County,39.121646,-77.17512
+100350,Maryland,Calvert County,38.589421,-76.588985
+95668,Massachusetts,Norfolk County,42.194968,-71.177848
+92878,Massachusetts,Middlesex County,42.461225,-71.322611
+91942,Massachusetts,Nantucket County,41.2677,-70.051005
+78430,Michigan,Livingston County,42.597696,-83.909703
+73369,Michigan,Oakland County,42.634311,-83.372819
+65618,Michigan,Washtenaw County,42.243881,-83.839621
+93151,Minnesota,Scott County,44.6628,-93.509738
+93095,Minnesota,Carver County,44.805274,-93.78582
+89598,Minnesota,Washington County,45.04813,-92.88193
+68600,Mississippi,Madison County,32.609803,-90.023429
+62595,Mississippi,DeSoto County,34.886598,-89.988359
+61605,Mississippi,Rankin County,32.221363,-89.942981
+78380,Missouri,St. Charles County,38.778905,-90.669346
+74199,Missouri,Platte County,39.39315,-94.763748
+65675,Missouri,Clay County,39.319914,-94.398157
+66572,Montana,Richland County,47.800547,-104.498271
+64911,Montana,Jefferson County,46.172008,-112.123858
+61998,Montana,Stillwater County,45.767053,-109.23401
+75752,Nebraska,Sarpy County,41.122395,-96.082609
+68284,Nebraska,Cass County,40.919235,-96.109295
+66485,Nebraska,Washington County,41.539963,-96.24273
+79865,Nevada,Lander County,39.936382,-117.010487
+76178,Nevada,Elko County,41.204474,-115.42758
+69324,Nevada,Humboldt County,41.431345,-118.077739
+85619,New Hampshire,Rockingham County,42.999526,-71.079140
+75777,New Hampshire,Hillsborough County,42.92255,-71.714892
+69856,New Hampshire,Merrimack County,43.3047,-71.657958
+110969,New Jersey,Hunterdon County,40.551848,-74.907806
+107034,New Jersey,Morris County,40.851868,-74.545377
+106046,New Jersey,Somerset County,40.562767,-74.613715
+110190,New Mexico,Los Alamos County,35.859083,-106.3104
+60703,New Mexico,Eddy County,32.533421,-104.271428
+60345,New Mexico,Sandoval County,35.609851,-106.755185
+105744,New York,Nassau County,40.726355,-73.593625
+99608,New York,Putnam County,41.439564,-73.764705
+92838,New York,Suffolk County,40.834131,-72.985595
+73577,North Carolina,Wake County,35.752375,-78.669548
+70858,North Carolina,Union County,34.955902,-80.550593
+68327,North Carolina,Camden County,36.465085,-76.274908
+91518,North Dakota,Billings County,47.008044,-103.35837
+89874,North Dakota,Williams County,48.296919,-103.323229
+80337,North Dakota,Mercer County,47.275697,-101.829057
+100229,Ohio,Delaware County,40.275189,-82.991943
+79397,Ohio,Warren County,39.448536,-84.190387
+78848,Ohio,Union County,40.30246,-83.379886
+69220,Oklahoma,Canadian County,35.532574,-98.003578
+62829,Oklahoma,Kingfisher County,35.954861,-97.920458
+62081,Oklahoma,McClain County,35.007011,-97.424885
+74033,Oregon,Washington County,45.574169,-123.090193
+72408,Oregon,Clackamas County,45.202645,-122.260498
+60369,Oregon,Multnomah County,45.532762,-122.496161
+92417,Pennsylvania,Chester County,39.971263,-75.740761
+84791,Pennsylvania,Montgomery County,40.200179,-75.380801
+82031,Pennsylvania,Bucks County,40.343984,-75.113932
+77862,Rhode Island,Washington County,41.460541,-71.635815
+75463,Rhode Island,Newport County,41.553127,-71.24274
+74630,Rhode Island,Bristol County,41.69935,-71.276499
+60603,South Carolina,Beaufort County,32.41488,-80.743598
+59394,South Carolina,York County,34.98458,-81.206347
+58685,South Carolina,Dorchester County,33.106427,-80.408118
+81849,South Dakota,Lincoln County,43.26856,-96.72061
+65434,South Dakota,Union County,42.825771,-96.683729
+65380,South Dakota,Edmunds County,45.409263,-99.243591
+103543,Tennessee,Williamson County,35.893317,-86.926959
+66123,Tennessee,Wilson County,36.159367,-86.310587
+62149,Tennessee,Rutherford County,35.862748,-86.410139
+93645,Texas,Fort Bend County,29.533853,-95.792401
+93269,Texas,Rockwall County,32.902303,-96.405997
+90124,Texas,Collin County,33.178464,-96.575187
+94952,Utah,Summit County,40.869785,-110.96283
+86071,Utah,Morgan County,41.106601,-111.606867
+85000,Utah,Daggett County,40.901034,-109.562715
+66906,Vermont,Chittenden County,44.485791,-73.052444
+66111,Vermont,Grand Isle County,44.702416,-73.315527
+62214,Vermont,Franklin County,44.858547,-72.863035
+129588,Virginia,Loudoun County,39.101202,-77.655345
+117515,Virginia,Fairfax County,38.859927,-77.302933
+114795,Virginia,Falls Church city,38.884586,-77.176218
+83571,Washington,King County,47.475245,-121.858849
+78020,Washington,Snohomish County,48.017136,-121.721243
+68336,Washington,Kitsap County,47.653322,-122.64979
+72526,West Virginia,Jefferson County,39.33364,-77.8429
+59480,West Virginia,Berkeley County,39.468901,-78.01396
+59113,West Virginia,Putnam County,38.51803,-81.888773
+81140,Wisconsin,Waukesha County,43.046469,-88.318077
+80526,Wisconsin,Ozaukee County,43.390883,-87.94285
+77768,Wisconsin,St. Croix County,45.043316,-92.452758
+84911,Wyoming,Sublette County,42.806239,-109.943893
+80178,Wyoming,Campbell County,44.256192,-105.528436
+80049,Wyoming,Teton County,43.952875,-110.572407
