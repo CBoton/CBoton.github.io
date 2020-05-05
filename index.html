@@ -9,7 +9,7 @@
             margin: 0 auto 0 auto;
             padding: 0;
             background-color: #33333f;
-            width: 840px;
+            width: 1400px;
             font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
             font-size: 0.95em;
         }
@@ -19,7 +19,7 @@
         img, a.img, a:hover.img { border: none; }
 
         img {
-            max-width: 800px;
+            max-width: 1280px;
         }
 
         h1, h2, h3, h4, h5 {
@@ -71,6 +71,7 @@
         <p>
             <strong>Curtis Botonis, Khang Hua, Malvina Oleshko</strong>
         </p>
+
     </section>
 
     <section>
@@ -107,7 +108,12 @@
         <h2>Overview of Development Process</h2>
 
         <p>
-            The time spent on this development was roughly 15 people-hours. Curtis spent a lot of time looking around for interactive d3 starter code that our team could build off of. He also wrangled the dataset into a format we could use with the graph. Then, Curtis incorporated our dataset into the code to create our interactive graph. Khang and Malvina worked together to incorporate the x-axis title for “Counties” and fixed a bug we had in the dropdown menu from svg. Khang and Malvina also put together the index.html file by including the graph (sizing, scaling, css) and the write-up.
+            The time spent on this development was roughly 15 people-hours. Curtis spent a lot of time looking around for
+            interactive d3 starter code that our team could build off of. He also wrangled the dataset into a
+            format we could use with the graph. Then, Curtis incorporated our dataset into the code to create our
+            interactive graph. Khang and Malvina worked together to incorporate the x-axis title for &quot;Counties&quot; and fixed a
+            bug we had in the dropdown menu from svg. Khang and Malvina also put together the index.html file by including the
+            graph (sizing, scaling, css) and the write-up.
         </p>
     </section>
 
@@ -115,11 +121,22 @@
         <h2>Interactive Design</h2>
 
         <div><h3><p align ="center">Top 10 Populous Counties in CA Statistics</p></h3></div>
-        <svg width="900" height="480"></svg>
+        <svg width="1280" height="800"></svg>
         <div id="menus">
             <span id="x-menu"></span>
         </div>
         <script src="bundle.js"></script>
+    </section>
+    <section>
+        <h2>2nd Interactive Design</h2>
+        <p>As were are considering moving outside of California we thought it would be helpful if we could narrow down
+        the search based on the highest income earning areas across the country. This visualization shows a few things to help
+        narrow that search. First off we have a color coded map of the United States which shows the states that have a higher or
+        lower average income for the entire state. The only problem with this is that there are only 9 states with an average income greater than California.
+        To help expand the search we decided to display the top three average income counties per state which you can see by hovering over the
+        red dots on the map. On mouseover the tooltip will display the county name, state, and average income for the county. The
+        circles are also to scale, so the bigger the circle, the higher the average income.</p>
+        <iframe src="http://athena.ecs.csus.edu/~botonisc/vis2.html"  height="800" width="1280" scrolling="no"></iframe>
     </section>
 
 </div>
