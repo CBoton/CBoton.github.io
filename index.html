@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html xml:lang="en" lang="en">
 <head>
-    <title>CSC 196V  Assignment 3</title>
+    <title>CSC 196V Final Project</title>
     <style>
         * { padding: 0; margin: 0; }
 
@@ -19,7 +19,7 @@
         img, a.img, a:hover.img { border: none; }
 
         img {
-            max-width: 1280px;
+            max-width: 1240px;
         }
 
         h1, h2, h3, h4, h5 {
@@ -66,7 +66,7 @@
 <div class='content'>
 
     <section>
-        <h1>Assignment 3: Interactive Design</h1>
+        <h1>CSC 196V Final Project</h1>
 
         <p>
             <strong>Curtis Botonis, Khang Hua, Malvina Oleshko</strong>
@@ -78,7 +78,14 @@
         <h2>Dataset</h2>
 
         <p>
-            For this assignment, our team decided to use the 2017 US Census Dataset located on Kaggle's website. We found that this dataset had a lot of possibilities and questions to be answered.
+            For this assignment, our team decided to use the 2017 US Census Dataset located on Kaggle's website.
+            We found that this dataset had a lot of possibilities and questions to be answered.
+            We set out to answer the following questions:
+        <ol>
+            <li>Which county in California offers the most ideal work environment?</li>
+            <li>Which counties in the United States are the most populous?</li>
+            <li>Which counties in the United States offer the highest paying jobs?</li>
+        </ol>
         </p>
 
         <p>
@@ -89,7 +96,8 @@
         </p>
     </section>
 
-    <section>
+
+    <!-- <section>
         <h2>Interactive Design Decisions</h2>
 
         <p>
@@ -104,6 +112,7 @@
         </p>
     </section>
 
+
     <section>
         <h2>Overview of Development Process</h2>
 
@@ -115,19 +124,75 @@
             bug we had in the dropdown menu from svg. Khang and Malvina also put together the index.html file by including the
             graph (sizing, scaling, css) and the write-up.
         </p>
-    </section>
+    </section> -->
 
     <section>
-        <h2>Interactive Design</h2>
+        <h2>Recent Graduates and Best County for Career</h2>
 
-        <div><h3><p align ="center">Top 10 Populous Counties in CA Statistics</p></h3></div>
+        <p>
+            We set out to help recent graduates find the most ideal place to live and to work.
+            We started by comparing the top ten populous counties in California.
+            One is able to see how the ten counties stand against each other in 23 statistical areas by selecting the field from the drop-down menu.
+            Then, we realized that not every graduate would want to stay in California, so we wanted to provide information on the entire United States.
+            We offer a population density map of the United States, broken down by county.
+            The counties with a population greater than 2 million have annotations to denote them.
+            Lastly, we provide another interactive design: a map of the United States by states' average income.
+            This map provides the graduate with information on which states have higher or lower incomes than California.
+            The map also displays each state's top three earning counties in the form of red, scaling circles.
+            When hovering over the circles, we are able to see the county name, state name, and average income.
+        </p>
+
+        <div class="entry">
+            <h3><p align ="center">Top 10 Populous Counties in California</p></h3>
+            <svg width="1280" height="800"></svg>
+            <div id="menus">
+                <span id="x-menu"></span>
+            </div>
+            <script src="bundle.js"></script>
+            <p class="caption">
+                </br>This graph shows how the top ten populous counties in California stand against each other.
+            </p>
+        </div>
+
+        <div class="entry">
+            <img src="population.jpg" />
+            <p class="caption">
+                This map of the United States shows the population density by county.
+            </p>
+        </div>
+
+        <div class="entry">
+            <iframe src="https://cboton.github.io/vis2.html"  height="800" width="1240" scrolling="no"></iframe>
+            <p class="caption">
+                Since some of the recent graduates will consider moving outside of California for their job, we thought it would be helpful if we could narrow down
+                the search based on the highest income earning areas across the country. This visualization shows a few things to help
+                narrow that search. First off we have a color coded map of the United States which shows the states that have a higher or
+                lower average income than California for the entire state. The only problem with this is that there are only 9 states with an average income greater than California.
+                To help expand the search, we decided to display the top three average income counties per state which one can see by hovering over the
+                red dots on the map. On mouseover, the tooltip will display the county name, state, and average income for the county. The
+                circles are also to scale, so the bigger the circle, the higher the average income.
+            </p>
+        </div>
+
+        <!-- <div><h3><p align ="center">Top 10 Populous Counties in CA Statistics</p></h3></div>
         <svg width="1280" height="800"></svg>
         <div id="menus">
             <span id="x-menu"></span>
         </div>
-        <script src="bundle.js"></script>
+        <script src="bundle.js"></script> -->
     </section>
-    <section>
+
+    <!-- <section>
+        <h2>Static Design</h2>
+        <div class="entry">
+            <img src="population.jpg" />
+            <p class="caption">
+                This map of the United States shows the population density by county.
+            </p>
+        </div>
+    </section> -->
+
+    <!-- <section>
         <h2>2nd Interactive Design</h2>
         <p>As were are considering moving outside of California we thought it would be helpful if we could narrow down
         the search based on the highest income earning areas across the country. This visualization shows a few things to help
@@ -136,8 +201,8 @@
         To help expand the search we decided to display the top three average income counties per state which you can see by hovering over the
         red dots on the map. On mouseover the tooltip will display the county name, state, and average income for the county. The
         circles are also to scale, so the bigger the circle, the higher the average income.</p>
-        <iframe src="https://cboton.github.io/vis2.html"  height="800" width="1280" scrolling="no"></iframe>
-    </section>
+        <iframe src="https://cboton.github.io/vis2.html"  height="800" width="1240" scrolling="no"></iframe>
+    </section> -->
 
 </div>
 </body>
