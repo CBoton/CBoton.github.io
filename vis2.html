@@ -14,8 +14,8 @@ path:hover {
 div.tooltip {   
  	position: absolute;           
 	text-align: center;           
-	width: 200px;
-	height: 50px;
+	width: auto;
+	height: auto;
 	padding: 2px;             
 	font: 14px sans-serif;
     color: white;
@@ -166,7 +166,7 @@ svg.selectAll("circle")
       	   .duration(200)      
            .style("opacity", 1);
            div.html(d.county + ", " + d.state + "<br/>" + "Avg income: $" + d.income)
-           .style("left", (d3.event.pageX) + "px")     
+           .style("left", (d3.event.pageX - 90) + "px")     
            .style("top", (d3.event.pageY - 28) + "px");
 	})   
 
